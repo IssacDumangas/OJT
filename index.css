@@ -649,7 +649,7 @@ a {
 }
 
 .btn-about {
-  background-color: var(--color-success);
+  background-color: var(--color-primary);
   color: var(--color-whites);
   height: 2rem;
   width: 4rem;
